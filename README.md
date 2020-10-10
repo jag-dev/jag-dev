@@ -3,13 +3,12 @@
 <div>
   <h3>< About Me /></h3>
   <div>
-
         [ 💻 ] Currently studying Computer Science<br>
         [ 💡 ] Developer and System Admin<br>
         [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code><br>
         [ 📓 ] CompTIA IT Fundamentals certified<br>
         [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a><br>
-
+  </div>
 </div>
 <h3>🔭 Technology Stack</h3>
 <hr>
