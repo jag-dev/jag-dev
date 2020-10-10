@@ -9,8 +9,8 @@
       <li>🔧 I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
       <li>📓 CompTIA IT Fundamentals certified</li>
       <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
-      <span align="right">test</span>
-    </ul>
+
+    </ul><span align="right">test</span>
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
