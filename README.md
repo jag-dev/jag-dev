@@ -28,11 +28,11 @@
 </a>
 
 <a href="https://www.jetbrains.com/idea/" rel="nofollow">
-  <img src="img/intellij" style="max-width:100%;">
+  <img src="img/intellij.png" style="max-width:100%;">
 </a>
 
 <a href="https://www.eclipse.org/ide/" rel="nofollow">
-  <img src="img/eclipse" style="max-width:100%;">
+  <img src="img/eclipse.png" style="max-width:100%;">
 </a>
 </div>
 <!--
