@@ -1,16 +1,16 @@
 <h1>Welcome to my profile 🚀</h1>
 <hr>
 <div>
-  <div style="float: left;">
+  <div style="display: absolute: border: 1px solid red;">
   <h3>< About Me /></h3>
     <ul style="list-stle-type: none;">
-      <li style="list-stle-type: none;">💻 Currently studying Computer Science</li>
-      <li>💡 Developer and System Admin</li>
-      <li>🔧 I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
-      <li>📓 CompTIA IT Fundamentals certified</li>
-      <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
+      <li style="list-stle-type: none;">[💻] Currently studying Computer Science</li>
+      <li>[💡] Developer and System Admin</li>
+      <li>[🔧] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
+      <li>[📓] CompTIA IT Fundamentals certified</li>
+      <li>[📫] Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
     </ul>
-    <span align="right">test</span>
+    <span style="float: left;">test</span>
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
