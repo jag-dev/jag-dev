@@ -14,6 +14,7 @@
   <br>
   <div style="float: left;">
     <img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/>
+    <img src="https://badges.pufler.dev/repos/jag-dev" alt="repos"/>
     <img src="https://badges.pufler.dev/commits/all/jag-dev" alt="commits"/>
   </div>
 </div>
