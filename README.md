@@ -18,7 +18,7 @@
   <img src="img/github.png" alt="GitHub"/>
   <img src="img/html.png" alt="HTML"/>
   <img src="img/css.png" alt="CSS"/>
-  <img src="img.javascript.png" alt="JavaScript"/>
+  <img src="img/javascript.png" alt="JavaScript"/>
 </div>
 <h3>🔨 Environments</h3>
 <hr>
