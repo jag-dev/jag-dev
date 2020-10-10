@@ -20,7 +20,7 @@
 <div style="float: left;" >
 
 <a href="https://www.microsoft.com" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/61eec318f62520daeb9685db838569531453e491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302d3431393764313f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666266c6162656c436f6c6f723d304331333234" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-10-4197d1?style=flat-square&amp;logo=windows&amp;logoColor=ffffff&amp;labelColor=0C1324" style="max-width:100%; padding-right: 5px;">
+  <img src="img/windows.png" style="max-width:100%;">
 </a>
 
 <a href="https://www.ubuntu.com/" rel="nofollow">
@@ -28,7 +28,11 @@
 </a>
 
 <a href="https://www.jetbrains.com/idea/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/d62c8ae0c3d3e07614b872245c145ac20d30e42c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d496e74656c6c694a2d4646334234433f7374796c653d666c61742d737175617265266c6f676f3d4a6574427261696e73266c6f676f436f6c6f723d666666666666266c6162656c436f6c6f723d304331333234" alt="IntelliJ" data-canonical-src="https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&amp;logo=JetBrains&amp;logoColor=ffffff&amp;labelColor=0C1324" style="max-width:100%; padding-right: 5px;">
+  <img src="img/intellij" style="max-width:100%;">
+</a>
+
+<a href="https://www.eclipse.org/ide/" rel="nofollow">
+  <img src="img/eclipse" style="max-width:100%;">
 </a>
 </div>
 <!--
