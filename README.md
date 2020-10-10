@@ -18,6 +18,7 @@
   <img src="img/github.png" alt="GitHub"/>
   <img src="img/html.png" alt="HTML"/>
   <img src="img/css.png" alt="CSS"/>
+  <img src="img.javascript.png" alt="JavaScript"/>
 </div>
 <h3>🔨 Environments</h3>
 <hr>
@@ -29,6 +30,10 @@
 
 <a href="https://www.ubuntu.com/" rel="nofollow">
   <img src="img/ubuntu.png">
+</a>
+
+<a href="https://notepad-plus-plus.org/downloads/" rel="nofollow">
+  <img src="img/notepad.png"style="padding-bottom: 5px;">
 </a>
 
 <a href="https://atom.io/" rel="nofollow">
