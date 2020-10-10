@@ -11,10 +11,10 @@
         <br>
         <div align="center">
           <h3>< Useful Links /></h3>
-          <a href="https://hub.spigotmc.org/javadocs/bukkit/">Spigot API</a> -
+          [ <a href="https://hub.spigotmc.org/javadocs/bukkit/">Spigot API</a> -
           <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a> -
           <a href="https://repl.it/">Repl.it</a> -
-          <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a>
+          <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a> ]
         </div>
   </div>
 </div>
