@@ -11,7 +11,6 @@
       <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
     </ul>
   </div>
-  <br>
 </div>
 <h3>🔭 Technology Stack</h3>
 <hr>
@@ -52,6 +51,7 @@
   <img src="img/eclipse.png" style="height: 24px;">
 </a>
 </div>
+<br>
 <div style="float: left;">
   <img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/>
   <img src="https://badges.pufler.dev/repos/jag-dev" alt="repos"/>
