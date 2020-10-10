@@ -4,10 +4,16 @@
   <h3>< About Me /></h3>
   <div>
         [ 💻 ] Currently studying Computer Science<br>
-        [ 💡 ] Developer and System Admin<br>
+        [ 💡 ]  Developer and System Admin<br>
         [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code><br>
-        [ 📓 ] CompTIA IT Fundamentals certified<br>
+        [ 📓 ]  CompTIA IT Fundamentals certified<br>
         [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a><br>
+        <br>
+        <h4>< Useful Links /></h4>
+        <a href="https://hub.spigotmc.org/javadocs/bukkit/">Spigot API</a> -
+        <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a> - 
+        <a href="https://repl.it/">Repl.it</a> -
+        <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a>
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
