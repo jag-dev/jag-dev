@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://www.jetbrains.com/idea/" rel="nofollow">
-  <img src="img/intel.png">
+  <img src="img/intel.png"style="padding-bottom: 5px;">
 </a>
 
 <a href="https://www.eclipse.org/ide/" rel="nofollow">
