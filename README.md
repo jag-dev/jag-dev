@@ -12,11 +12,6 @@
     </ul>
   </div>
   <br>
-  <div style="float: left;">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/>
-    <img src="https://badges.pufler.dev/repos/jag-dev" alt="repos"/>
-    <img src="https://badges.pufler.dev/commits/all/jag-dev" alt="commits"/>
-  </div>
 </div>
 <h3>🔭 Technology Stack</h3>
 <hr>
@@ -56,4 +51,9 @@
 <a href="https://www.eclipse.org/ide/" rel="nofollow">
   <img src="img/eclipse.png" style="height: 24px;">
 </a>
+</div>
+<div style="float: left;">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/>
+  <img src="https://badges.pufler.dev/repos/jag-dev" alt="repos"/>
+  <img src="https://badges.pufler.dev/commits/all/jag-dev" alt="commits"/>
 </div>
