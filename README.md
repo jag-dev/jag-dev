@@ -11,8 +11,9 @@
       <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
     </ul>
   </div>
-  <div style="float: left; margin-top: 50px;">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/>
+  <br>
+  <div style="">
+    <p><img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/></p>
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
