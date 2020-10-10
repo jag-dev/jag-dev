@@ -10,7 +10,7 @@
 <hr>
 <div style="float: left;">
   <img src="img/java.png" alt="Java"/>
-  <img src="img/Python.png" alt="Python"/>
+  <img src="img/python.png" alt="Python"/>
   <img src="img/html.png" alt="HTML"/>
   <img src="img/css.png" alt="CSS"/>
   <img src="img/git.png" alt="Git"/>
