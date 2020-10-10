@@ -12,7 +12,7 @@
     </ul>
   </div>
   <div style="float: left;">
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev)
+    [![Visits Badge](https://badges.pufler.dev/visits/jag-dev/jag-dev)](https://badges.pufler.dev)
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
