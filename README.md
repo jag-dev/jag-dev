@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.eclipse.org/ide/" rel="nofollow">
-  <img src="img/eclipse2.png">
+  <img src="img/eclipse2.png" style="height: 24px;">
 </a>
 </div>
 <!--
