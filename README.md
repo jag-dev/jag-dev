@@ -6,8 +6,7 @@
 <p>📓 CompTIA IT Fundamentals certified</p>
 <p>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></p>
 
-<h2>🔧 Technology Stack</h2>
-<hr>
+<h3>🔧 Technology Stack</h3>
 <div style="float: left;">
   <img src="https://camo.githubusercontent.com/26494160f0c6dfac5f59378c594f1677d7e04258/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3043313332343f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666" alt="Java2" data-canonical-src="https://img.shields.io/badge/-Java-0C1324?style=flat-square&amp;logo=java&amp;logoColor=ffffff" style="max-width:100%; padding-right: 5px;">
   <img src="https://camo.githubusercontent.com/b18e4848af8f415bc91a0adbbfaebd90a2f52f80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3043313332343f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-0C1324?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" style="max-width:100%; padding-right: 5px;">
@@ -17,6 +16,7 @@
   <img src="https://camo.githubusercontent.com/6accf90e63948d37aa2983545aa7346cde2d3088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6176656e2d3043313332343f7374796c653d666c61742d737175617265266c6f676f3d6170616368652d6d6176656e266c6f676f436f6c6f723d666666666666" alt="Maven" data-canonical-src="https://img.shields.io/badge/-Maven-0C1324?style=flat-square&amp;logo=apache-maven&amp;logoColor=ffffff" style="max-width:100%; padding-right: 5px;">
 </div>
 <br>
+<h3>🔨 Environments</h3>
 <div style="float: left;" >
 
 <a href="https://www.microsoft.com" rel="nofollow">
