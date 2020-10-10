@@ -9,11 +9,11 @@
         [ 📓 ]  CompTIA IT Fundamentals certified<br>
         [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a><br>
         <br>
-        <center><h3>< Useful Links /></h3>
+        <center><h3>< Useful Links /></h3></center>
         <a href="https://hub.spigotmc.org/javadocs/bukkit/">Spigot API</a> -
         <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a> -
         <a href="https://repl.it/">Repl.it</a> -
-        <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a></center>
+        <a href="https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf">Linux Command Line</a>
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
