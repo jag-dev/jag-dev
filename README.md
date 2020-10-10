@@ -14,6 +14,7 @@
   <br>
   <div style="">
     <p><img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/></p>
+    [![Commits Badge](https://badges.pufler.dev/commits/all/jag-dev)](https://badges.pufler.dev)
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
