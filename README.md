@@ -3,8 +3,8 @@
 <div>
   <div style="display: absolute: border: 1px solid red;">
   <h3>< About Me /></h3>
-
-      <span>[ 💻 ] Currently studying Computer Science</span>
+  <div>
+      [ 💻 ] Currently studying Computer Science</span>
       [ 💡 ] Developer and System Admin</span>
       [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code>
       [ 📓 ] CompTIA IT Fundamentals certified
