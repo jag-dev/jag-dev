@@ -3,14 +3,15 @@
 <div>
   <div style="display: absolute: border: 1px solid red;">
   <h3>< About Me /></h3>
-    <ul>
-     '''
+    * test
+      * test
+
       <span>[ 💻 ] Currently studying Computer Science</span>
       <span>[ 💡 ] Developer and System Admin</span>
       <span>[ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></span>
       <span>[ 📓 ] CompTIA IT Fundamentals certified</span>
       <span>[ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a></span>
-      '''
+
     </ul>
   </div>
 </div>
