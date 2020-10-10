@@ -4,7 +4,7 @@
 <ul style="list-stle-type: none;">
   <li style="list-stle-type: none;">💻 Currently studying Computer Science</li>
   <li>💡 Developer and System Admin</li>
-  <li>🔧 I work with <code>.java</code>, <code>.html</code>, and <code>.py</code></li>
+  <li>🔧 I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
   <li>📓 CompTIA IT Fundamentals certified</li>
   <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
 </ul>
@@ -43,17 +43,3 @@
   <img src="img/eclipse.png" style="height: 24px;">
 </a>
 </div>
-<!--
-**jag-dev/jag-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
