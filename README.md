@@ -3,14 +3,13 @@
 <div>
   <div style="display: absolute: border: 1px solid red;">
   <h3>< About Me /></h3>
-    <ul style="list-stle-type: none;">
-      <li style="list-stle-type: none;">[💻] Currently studying Computer Science</li>
-      <li>[💡] Developer and System Admin</li>
-      <li>[🔧] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
-      <li>[📓] CompTIA IT Fundamentals certified</li>
-      <li>[📫] Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
+    <ul>
+      <span>[ 💻 ] Currently studying Computer Science</span>
+      <span>[ 💡 ] Developer and System Admin</span>
+      <span>[ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></span>
+      <span>[ 📓 ] CompTIA IT Fundamentals certified</span>
+      <span>[ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a></span>
     </ul>
-    <span style="float: left;">test</span>
   </div>
 </div>
 <h3>🔭 Technology Stack</h3>
