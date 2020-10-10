@@ -4,7 +4,7 @@
 <p>💡 Developer and System Admin</p>
 <p>🔧 I work with <code>.java</code>, <code>.html</code>, and <code>.py</code></p>
 <p>📓 CompTIA IT Fundamentals certified</p>
-<p>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a> or DM JaG#0618</p>
+<p>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></p>
 
 <h2>🔧 Technology Stack</h2>
 <hr>
