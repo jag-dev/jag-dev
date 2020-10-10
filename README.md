@@ -4,8 +4,8 @@
   <div style="display: absolute: border: 1px solid red;">
   <h3>< About Me /></h3>
   <div>
-      [ 💻 ] Currently studying Computer Science</span>
-      [ 💡 ] Developer and System Admin</span>
+      [ 💻 ] Currently studying Computer Science<br>
+      [ 💡 ] Developer and System Admin
       [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code>
       [ 📓 ] CompTIA IT Fundamentals certified
       [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a>
