@@ -17,7 +17,7 @@
         </div>
   </div>
 </div>
-<h3>🔭 Technology Stack</h3>
+<h3>[ 🔭 Technology Stack ]</h3>
 <hr>
 <div style="float: left;">
   <img src="img/java.png" alt="Java"/>
@@ -28,7 +28,7 @@
   <img src="img/css.png" alt="CSS"/>
   <img src="img/javascript.png" alt="JavaScript"/>
 </div>
-<h3>🔨 Environments</h3>
+<h3>[ 🔨 Environments ]</h3>
 <hr>
 <div style="float: left;" >
 
