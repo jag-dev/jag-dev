@@ -2,8 +2,8 @@
 <hr>
 <div>
   <div style="display: absolute: border: 1px solid red;">
-  * <h3>< About Me /></h3>
-    * <div>
+  <h3>< About Me /></h3>
+    <div>
 
         [ 💻 ] Currently studying Computer Science<br>
         [ 💡 ] Developer and System Admin<br>
