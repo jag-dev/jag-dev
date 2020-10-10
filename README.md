@@ -1,10 +1,8 @@
 <h1>Welcome to my profile 🚀</h1>
 <hr>
 <div>
-
   <h3>< About Me /></h3>
   <div>
-
         [ 💻 ] Currently studying Computer Science<br>
         [ 💡 ] Developer and System Admin<br>
         [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code><br>
