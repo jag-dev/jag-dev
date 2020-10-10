@@ -8,7 +8,6 @@
         [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code><br>
         [ 📓 ]  CompTIA IT Fundamentals certified<br>
         [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a><br>
-        <br>
         <div align="center">
           <h3>< Useful Links /></h3>
           [ <a href="https://hub.spigotmc.org/javadocs/bukkit/">Spigot API</a> -
