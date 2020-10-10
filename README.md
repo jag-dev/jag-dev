@@ -2,7 +2,7 @@
 <hr>
 <div>
   <div style="float: left;">
-  <h3>🤵 About Me</h3>
+  <h3>< About Me /></h3>
     <ul style="list-stle-type: none;">
       <li style="list-stle-type: none;">💻 Currently studying Computer Science</li>
       <li>💡 Developer and System Admin</li>
