@@ -1,20 +1,23 @@
 <h1>Welcome to my profile 🚀</h1>
 <hr>
-<p>💻 Currently studying Computer Science</p>
-<p>💡 Developer and System Admin</p>
-<p>🔧 I work with <code>.java</code>, <code>.html</code>, and <code>.py</code></p>
-<p>📓 CompTIA IT Fundamentals certified</p>
-<p>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></p>
+<h3>🤵 About Me</h3>
+<ul style="list-stle-type: none;">
+  <li>💻 Currently studying Computer Science</li>
+  <li>💡 Developer and System Admin</li>
+  <li>🔧 I work with <code>.java</code>, <code>.html</code>, and <code>.py</code></li>
+  <li>📓 CompTIA IT Fundamentals certified</li>
+  <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
+</ul>
 
 <h3>🔭 Technology Stack</h3>
 <hr>
 <div style="float: left;">
   <img src="img/java.png" alt="Java"/>
   <img src="img/python.png" alt="Python"/>
-  <img src="img/html.png" alt="HTML"/>
-  <img src="img/css.png" alt="CSS"/>
   <img src="img/git.png" alt="Git"/>
   <img src="img/github.png" alt="GitHub"/>
+  <img src="img/html.png" alt="HTML"/>
+  <img src="img/css.png" alt="CSS"/>
 </div>
 <h3>🔨 Environments</h3>
 <hr>
