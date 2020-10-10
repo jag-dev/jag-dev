@@ -1,14 +1,20 @@
 <h1>Welcome to my profile 🚀</h1>
 <hr>
-<h3>🤵 About Me</h3>
-<ul style="list-stle-type: none;">
-  <li style="list-stle-type: none;">💻 Currently studying Computer Science</li>
-  <li>💡 Developer and System Admin</li>
-  <li>🔧 I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
-  <li>📓 CompTIA IT Fundamentals certified</li>
-  <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
-</ul>
-
+<div>
+  <div style="float: left;">
+  <h3>🤵 About Me</h3>
+    <ul style="list-stle-type: none;">
+      <li style="list-stle-type: none;">💻 Currently studying Computer Science</li>
+      <li>💡 Developer and System Admin</li>
+      <li>🔧 I work with <code>.java</code>, <code>.py</code>, and <code>.html</code></li>
+      <li>📓 CompTIA IT Fundamentals certified</li>
+      <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
+    </ul>
+  </div>
+  <div style="float: left;">
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev)
+  </div>
+</div>
 <h3>🔭 Technology Stack</h3>
 <hr>
 <div style="float: left;">
@@ -48,5 +54,3 @@
   <img src="img/eclipse.png" style="height: 24px;">
 </a>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
