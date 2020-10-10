@@ -1,7 +1,7 @@
 <h1>Welcome to my profile 🚀</h1>
 <hr>
 <p>💻 Currently studying Computer Science</p>
-<p>💡 Aspiring developer and system admin</p>
+<p>💡 Developer and System Admin</p>
 <p>🔧 I work with <code>.java</code>, <code>.html</code>, and <code>.py</code></p>
 <p>📓 CompTIA IT Fundamentals certified</p>
 <p>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a> or DM JaG#0618</p>
