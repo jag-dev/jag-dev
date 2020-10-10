@@ -11,7 +11,7 @@
       <li>📫 Join my Discord <a href="https://discord.gg/9SNENvp">here</a></li>
     </ul>
   </div>
-  <div style="float: left; margin-top: 20px;">
+  <div style="float: left; margin-top: 50px;">
     <img src="https://visitor-badge.glitch.me/badge?page_id=jag-dev.jag-dev" alt="visitor badge"/>
   </div>
 </div>
