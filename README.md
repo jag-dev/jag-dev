@@ -2,7 +2,7 @@
 <hr>
 <h3>🤵 About Me</h3>
 <ul style="list-stle-type: none;">
-  <li>💻 Currently studying Computer Science</li>
+  <li style="list-stle-type: none;">💻 Currently studying Computer Science</li>
   <li>💡 Developer and System Admin</li>
   <li>🔧 I work with <code>.java</code>, <code>.html</code>, and <code>.py</code></li>
   <li>📓 CompTIA IT Fundamentals certified</li>
