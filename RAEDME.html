@@ -20,19 +20,19 @@
 <div style="float: left;" >
 
 <a href="https://www.microsoft.com" rel="nofollow">
-  <img src="img/windows.png" style="max-width:75%;">
+  <img src="img/windows2.png" style="max-width:75%;">
 </a>
 
 <a href="https://www.ubuntu.com/" rel="nofollow">
-  <img src="img/ubuntu.png" alt="Ubuntu" style="max-width:75%;">
+  <img src="img/ubuntu2.png">
 </a>
 
 <a href="https://www.jetbrains.com/idea/" rel="nofollow">
-  <img src="img/intellij.png" style="max-width:75%;">
+  <img src="img/intellij2.png">
 </a>
 
 <a href="https://www.eclipse.org/ide/" rel="nofollow">
-  <img src="img/eclipse.png" style="max-width:75%;">
+  <img src="img/eclipse2.png">
 </a>
 </div>
 <!--
