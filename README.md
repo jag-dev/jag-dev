@@ -56,7 +56,7 @@
   <img src="img/eclipse.png" style="height: 24px;">
 </a>
 </div>
-<br>
+<br/>
 <div align="center" style="float: left;">
   <img src="https://badges.pufler.dev/visits/jag-dev/jag-dev" alt="visits"/>
   <img src="https://badges.pufler.dev/repos/jag-dev" alt="repos"/>
