@@ -4,8 +4,7 @@
   <h3>About Me</h3>
   <div>
         [ 💻 ] Currently studying Computer Science<br>
-        [ 💡 ]  Developer and System Admin<br>
-        [ 🔧 ] I work with <code>.java</code>, <code>.py</code>, and <code>.html</code><br>
+        [ 💡 ]  Aspiring Developer and System Admin<br>
         [ 📓 ]  CompTIA IT Fundamentals certified<br>
         [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a><br>
         <div align="center">
@@ -40,20 +39,16 @@
   <img src="img/ubuntu.png">
 </a>
 
-<a href="https://notepad-plus-plus.org/downloads/" rel="nofollow">
-  <img src="img/notepad.png"style="padding-bottom: 5px;">
-</a>
-
-<a href="https://atom.io/" rel="nofollow">
-  <img src="img/atom.png"style="padding-bottom: 5px;">
-</a>
-
 <a href="https://www.jetbrains.com/idea/" rel="nofollow">
   <img src="img/intellij.png"style="padding-bottom: 5px;">
 </a>
 
 <a href="https://www.eclipse.org/ide/" rel="nofollow">
   <img src="img/eclipse.png" style="height: 24px;">
+</a>
+  
+<a href="https://www.vim.org" rel="nofollow">
+  <img src="img/vim.png"style="padding-bottom: 5px; height: 24px;">
 </a>
 </div>
 <br/>
