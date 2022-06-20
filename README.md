@@ -21,11 +21,13 @@
 <div style="float: left;">
   <img src="img/java.png" alt="Java"/>
   <img src="img/python.png" alt="Python"/>
-  <img src="img/git.png" alt="Git"/>
-  <img src="img/github.png" alt="GitHub"/>
   <img src="img/html.png" alt="HTML"/>
   <img src="img/css.png" alt="CSS"/>
   <img src="img/javascript.png" alt="JavaScript"/>
+  <img src="img/c.png" style="height: 45px;" alt="C"/>
+  <img src="img/fsharp.png" style="height: 45px; margin-left: 10px;" alt="F#"/><br>
+  <img src="img/git.png" alt="Git"/>
+  <img src="img/github.png" alt="GitHub"/>
 </div>
 <h3> 🔨 Environments </h3>
 <hr>
