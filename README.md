@@ -4,7 +4,7 @@
   <h3>About Me</h3>
   <div>
         [ 💻 ] Bachelor's Degree in Computer Science<br>
-        [ 💡 ]  Aspiring Developer and System Admin<br>
+        [ 💡 ]  Software Developer and System Admin<br>
         [ 📓 ]  CompTIA IT Fundamentals certified<br>
         [ 📫 ] Join my Discord <a href="https://discord.gg/9SNENvp">here</a><br>
         <div align="center">
